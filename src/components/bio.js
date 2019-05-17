@@ -38,9 +38,10 @@ function Bio() {
               }}
             />
             <p>
-              Escrito por <strong>{author}</strong> que mora e trabalha em Belo
-              Horizonte construindo coisas &uacute;teis.
-              {` `}
+              Escrito por <strong>{author}</strong> que mora e trabalha
+              remotamente em Belo Horizonte construindo coisas enquanto come
+              p&atilde;o de queijo.
+              <br />
               <a href={`https://twitter.com/${social.twitter}`}>
                 Voc&ecirc; deveria seguir ele no Twitter
               </a>
